@@ -1,2 +1,2 @@
 # M110-avoukenas-personal museum
-individual project for M11 - avoukenas
+individual project for M110 - avoukenas
